@@ -28,3 +28,4 @@ pg_dump ubuntu > dumpfile
 DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 psql ubuntu < dumpfile
+
